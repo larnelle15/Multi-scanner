@@ -39,8 +39,40 @@ Noise – Here you can see how much noise is impacting a particular network. The
 
 Last seen – Here you will see how long it has been since your WiFi scanner could see a particular WiFi network.
 
+For more information on WiFi scanners visit, (https://www.kismac-ng.org/wifi-scanner-for-macos/)
+
 # Port Scanner
 
 <img width="529" alt="Screen Shot 2023-12-21 at 11 38 11 AM" src="https://github.com/larnelle15/Multi-scanner/assets/139686202/3198678d-7d01-458f-b931-7669631a94b9">
 
-A port scanner is a tool which can be used for determining which ports on a network are open and which ones could be receiving data.
+A port scanner is a tool which can be used for determining which ports on a network are open and which ones could be receiving data. It is also used to probe a host or server to identify open ports. It is also valuable for testing network security and the strength of the system’s firewall. Due to this functionality, it is also a popular reconnaissance tool for attackers seeking a weak point of access to break into a computer. Ports vary in their services offered. They are numbered from 0 to 65535, but certain ranges are more frequently used. Ports 0 to 1023 are identified as the “well-known ports” or standard ports and have been assigned services by the Internet Assigned Numbers Authority (IANA). Some of the most prominent ports and their assigned services include:
+
+Port 20 (UDP) — File Transfer Protocol (FTP) for data transfer
+Port 22 (TCP) — Secure Shell (SSH) protocol for secure logins, FTP, and port forwarding
+Port 23 (TCP) — Telnet protocol for unencrypted text commutations
+Port 53 (UDP) — Domain Name System (DNS) translates names of all computers on internet-to-IP addresses
+Port 80 (TCP) — World Wide Web HTTP
+There are standard services offered on ports after 1023 as well and ports that, if open, indicate an infected system due to its popularity with some far-reaching Trojans and viruses.
+
+The six types of port scanning techniques that can be used are the vanilla scan, ping scans, SYN scans, FTP Brounce scans, sweep scans and XMAS and FIN scans.
+
+For more information on port scanners, you can visit (https://www.paloaltonetworks.com/cyberpedia/what-is-a-port-scan)
+
+# Firewall
+
+<img width="745" alt="Screen Shot 2023-12-21 at 12 13 32 PM" src="https://github.com/larnelle15/Multi-scanner/assets/139686202/977ce962-3c50-413e-a77d-2d1d3b78f6ac">
+
+A firewall is a network security device that prevents unauthorized access to a network. It inspects incoming and outgoing traffic using a set of security rules to identify and block threats. A firewall can be physical hardware, digital software, software as a service (SaaS) or a virtual private cloud. I think we've all heard about firewalls before with examples of many action movies where they needed a hacker to break the firewalls at some super secure places like the pentagon or even the white house. I grew up watchig this movies so up to now the topic always excites me. A fireall is one of if not the biggest mitigation strategy there is, and is capable of preventing unauthorized access to/from private networks. Here are the types of firewalls:
+Network firewall
+Web application firewall
+Hardware-based
+Software-based
+Cloud-based
+Personal computer (Windows, macOS) firewall
+Mobile firewall
+They are mostly categorized under two types – network-based and host-based.
+
+For more information on firewalls, you can visit (https://geekflare.com/firewall-introduction/)
+
+# Summary
+Most of my research on these security measures are on the risk mitigation strategies.pdf file that I have placed in this repository and more of my projects involving cybersecurity are on my github profile named Exploits, DIY-Malware, and password crack-a-thon. Now that everything I will be dealing with has been described, let's begin!
