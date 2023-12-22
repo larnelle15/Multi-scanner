@@ -12,4 +12,6 @@ Here is the output I got after running my code:
 
 <img width="526" alt="Screen Shot 2023-12-22 at 3 51 07 PM" src="https://github.com/larnelle15/Multi-scanner/assets/139686202/b6f6c7fe-7aac-4a7a-8087-9868ff3cb945">
 
-Here's a link to my code(https://replit.com/@LarnelleAnkunda/EmbellishedAwkwardBackticks)
+
+
+Here's a link to my code to see how it runs. (https://replit.com/@LarnelleAnkunda/EmbellishedAwkwardBackticks)
