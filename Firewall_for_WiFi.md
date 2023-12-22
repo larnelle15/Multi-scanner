@@ -1,1 +1,1 @@
-To create a firewall for WiFi, we need to import tne necessary libraries. For this part of the project, I'll import the socket and OS libraries in python. The socket library we'll be used to create a socket and the os library to execute system commands.
+To create a firewall for WiFi, we need to import tne necessary libraries. For this part of the project, I'll import the socket and OS libraries in python. The socket library will be used to create a socket and the os library to execute system commands.
