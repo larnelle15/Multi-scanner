@@ -5,6 +5,10 @@ First we have to install the scapy library, I'll install it using the "pip insta
 
 For the next part of my code, I'll craft the packets. Now that we have created these packets, we need to send them using srp() function which sends and receives packets at layer 2, we set the timeout to 3 so the script won't get stuck.
 
+pdst is where the ARP packet should go (target),
+psrc is the IP to update in the target’s arp table,
+hwsrc is the sender’s hardware address.
+
 The result now is a list of pairs that is of the format (sent_packet, received_packet), let's iterate over them. Now all we need to do is to print this list we have just filled. and the code is complete.
 
 For access to my code, here is the link(https://replit.com/@LarnelleAnkunda/SECURITY#main.py)
