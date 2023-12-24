@@ -1,1 +1,1 @@
-This is the most efficient scanner for ethical hacking and mitigating security risks through penetration testing. 
+This is the most efficient scanner for ethical hacking and mitigating security risks through penetration testing. I don't have the necessary permissions to scan nearby networks but I can use "sudo" for elevated script privileges. It's easier 
